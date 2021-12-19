@@ -20,3 +20,8 @@ Files in the repo:
 'Beskoon Twitter Climate Figures Lexicon Expansion.ipynb' contains code and a write which compares the two groups of twitter followers. Specific for my write up, I chose to compare sub groups of education as a final groups comparison. These sub groups were created by expanding a lexicon based on the first word containing something related to education. From there, I chose words accordingly trying to focus on education the best I could. With a lexicon established for for groups of Twitter followers, I created a subgroup for each group. And then I did comparison of both education-based subgroups. The final group compario
 
 'Beskoon Twitter Data pull based on Climate view figures.ipynb' contains code for which pulled Twitter followers' description and other account info and stores that info in two txt.files respective for each Climate Figure's followers. 
+
+
+## Feedback
+
+Your analysis is solid, though I would hope you'd be able to do something other than "random starts" for a topic that is, theoretically near and dear to your heart. But the write-up is clear, the code works, and you take sensible steps along the way. 
